@@ -8,3 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'apiproyect';
 }
+
+export class HomeComponent {
+  title = 'apiproyect';
+}
